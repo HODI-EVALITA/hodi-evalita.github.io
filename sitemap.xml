@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hodi-evalita.github.io/important_dates/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hodi-evalita.github.io/contact/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hodi-evalita.github.io/hodi/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -21,11 +31,23 @@
   </url>
   
   <url>
+    <loc>https://hodi-evalita.github.io/authors/3_alessandra_teresa_cignarella/</loc>
+  </url>
+  
+  <url>
     <loc>https://hodi-evalita.github.io/authors/3_tommaso_caselli/</loc>
   </url>
   
   <url>
+    <loc>https://hodi-evalita.github.io/authors/4_tommaso_caselli/</loc>
+  </url>
+  
+  <url>
     <loc>https://hodi-evalita.github.io/authors/4_viviana_patti/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hodi-evalita.github.io/authors/5_viviana_patti/</loc>
   </url>
   
   <url>
